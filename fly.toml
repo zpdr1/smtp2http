@@ -1,4 +1,4 @@
-app = "smtp2http"
+app = "smtp2http-7e"
 primary_region = "sin"
 
 [build]
